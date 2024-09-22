@@ -20,7 +20,6 @@
 
 <h3>
   The CallLog function extracts the call log from the Android device using the adb command and imports the data into a SQLite database. <br>
-  The function then prints the call log data in a readable format. <br>
 </h3> <br>
 
 <h2> SMS Log Analysis </h2> <br>
