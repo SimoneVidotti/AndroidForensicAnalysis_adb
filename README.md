@@ -17,13 +17,13 @@ SD Card File Extraction
 The PullAndroidFiles function pulls files from the SD card of the Android device using the adb command and saves them to a specified destination folder.
 Usage
 
-    Run the script and enter the desired database name (with .db extension) when prompted.
-    The script will create the database and execute the CallLog, SMSlog, and PullAndroidFiles functions.
-    Follow the prompts to input the table name for the call log and SMS log analysis, and the destination folder for the SD card file extraction.
+Run the script and enter the desired database name (with .db extension) when prompted.
+The script will create the database and execute the CallLog, SMSlog, and PullAndroidFiles functions.
+Follow the prompts to input the table name for the call log and SMS log analysis, and the destination folder for the SD card file extraction.
 
 Requirements
 
-    Python 3.x
-    adb command-line tool
-    sqlite3 command-line tool
-    figlet command-line tool (optional, for generating the script title)
+Python 3.x
+adb command-line tool
+sqlite3 command-line tool
+figlet command-line tool (optional, for generating the script title)
