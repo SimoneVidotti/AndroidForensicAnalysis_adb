@@ -6,10 +6,10 @@
   I assume no responsibility for the improper or illegal use of the program. <br>
 </h3>
 
-<h2> Overview </h2> <br>
+<h2> Overview </h2> 
 
 <h3>
-  adbForensic is a Python script designed to facilitate Android forensic analysis. <br>
+  adbForensic is a Python script designed to facilitate Android forensic analysis. 
   It provides a set of functions to extract and analyze data from an Android device, including call logs, SMS logs, and files from the SD card. <br>
 </h3>
 
