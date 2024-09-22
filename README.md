@@ -26,7 +26,6 @@
 
 <h3>
   The SMSlog function extracts the SMS log from the Android device using the adb command and imports the data into a SQLite database. <br>
-  The function then prints the SMS log data in a readable format. <br>
 </h3> <br>
 
 <h2> SD Card File Extraction </h2> <br>
