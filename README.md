@@ -1,11 +1,20 @@
 <strong> <h1> adbForensic: A Powerful Tool for Android Forensic Analysis </h1> </strong> <br>
 <strong> <h2> Warning </h2> </strong>
 
-This program is a powerful tool that should only be used for authorized ethical hacking actions and in compliance with current laws and regulations. I assume no responsibility for the improper or illegal use of the program.
-Overview
+<h3>
+  This program is a powerful tool that should only be used for authorized ethical hacking actions and in compliance with current laws and regulations. <br>
+  I assume no responsibility for the improper or illegal use of the program. <br>
+</h3>
 
-adbForensic is a Python script designed to facilitate Android forensic analysis. It provides a set of functions to extract and analyze data from an Android device, including call logs, SMS logs, and files from the SD card.
-Features
+<h2> Overview </h2> <br>
+
+<h3>
+  adbForensic is a Python script designed to facilitate Android forensic analysis. <br>
+  It provides a set of functions to extract and analyze data from an Android device, including call logs, SMS logs, and files from the SD card. <br>
+</h3>
+
+<h2> Features </h2>
+
 Call Log Analysis
 
 The CallLog function extracts the call log from the Android device using the adb command and imports the data into a SQLite database. The function then prints the call log data in a readable format.
